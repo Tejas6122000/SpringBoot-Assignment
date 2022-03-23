@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### Register User
 http://localhost:8080/signup
 ![EditTask](output_images/SignUp.png)
-![EditTask](output_images/ReacSignUp.png)
+![EditTask](output_images/ReactSignUp.png)
 
 ### Login User
 http://localhost:8080/login
